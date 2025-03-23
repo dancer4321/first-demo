@@ -1,4 +1,2 @@
 # first-demo
-This is my first repository
-<br>
-author - rohit kumar
+this demo for git &amo; Github class
